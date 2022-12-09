@@ -1,1 +1,3 @@
-# wp-react-admin
+# WP React Admin
+
+- wordpress react components
